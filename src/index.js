@@ -6,7 +6,7 @@ import { App } from './App';
 export default App;
 
 ReactDOM.render(
-    <App />,
+    <Top />,
     document.getElementById('root')
 );
 
